@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<Spanish/>
+<main/>
+<Settings class="apk"/>
+<res/>
+<values-es/>
+<strings class="xml"></strings><?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Accounts_settings_title">Cuentas</string>
     <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
